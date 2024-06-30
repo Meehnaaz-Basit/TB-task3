@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   max-width: 1280px;
+   margin: 0 auto;
+}
+/* 
+[data-theme="dark"] body {
+   color: #bbbbbb;
+} */
